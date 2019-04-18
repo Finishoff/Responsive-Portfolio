@@ -1,5 +1,5 @@
 # Responsive-Portfolio
-Retired Portfolio layout, [see](https://dev-lam.github.io/)
+Retired Portfolio layout, Use [Link](https://dev-lam.github.io/)
 
 ~~Updated, work in progress portfolio.
 
