@@ -1,5 +1,5 @@
 # Responsive-Portfolio
-Retired Portfolio layout, see [https://dev-lam.github.io/].
+Retired Portfolio layout, see [https://dev-lam.github.io/]
 ~~Updated, work in progress portfolio.
 
 * Need to fix layout and sizing to fit dif screen.
