@@ -1,7 +1,7 @@
 # Responsive-Portfolio
 Retired Portfolio layout, Use [Link](https://dev-lam.github.io/)
 
-~~Updated, work in progress portfolio.
+~~Updated, work in progress portfolio.~~
 
 * Need to fix layout and sizing to fit dif screen.
 * Link to proper resume and linkin profiles.
